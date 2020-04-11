@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809099771864",
+    "firebase_url": "https://gregpol.firebaseio.com",
+    "project_id": "gregpol",
+    "storage_bucket": "gregpol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809099771864:android:b50bd821e5af046f3b7cad",
+        "android_client_info": {
+          "package_name": "com.example.gregpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809099771864-6mfdnap6782ig5i9bbtefggaaj2q7nuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gregpl",
+            "certificate_hash": "a671cb4ab028211ec13aeab28bb90bbadc15883e"
+          }
+        },
+        {
+          "client_id": "809099771864-n395d9jrb6ch7fr0feddnbu3nv4b20jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvoorKI2ZNj-kSZT8HrOEEj-mYEpaVJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809099771864-n395d9jrb6ch7fr0feddnbu3nv4b20jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
